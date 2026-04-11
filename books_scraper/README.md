@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📚 Books Scraper (Beginner Web Scraping Project)
 
 This is a beginner-friendly web scraping project using Python.
